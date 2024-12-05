@@ -56,15 +56,14 @@
 ---
 
 ## 🚀 **What I'm Learning Next**  
-- 📚 Enhancing skills in **Microservices** and **Docker**  
-- 🌐 Diving deeper into **frontend frameworks** like **React**  
+- 📚 Enhancing skills in **Spring frameworks** 
+- 🌐 Diving deeper into **frontend frameworks**
 
 ---
 
 ## 🌟 **How to Reach Me**
 
-- 📫 Email: your-email@example.com  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- 📫 Email: goncalo8fernandes8@gmail.com
 - 🔗 LinkedIn: (https://www.linkedin.com/in/gon%C3%A7alo-fernandes-7b3204337/)
 
 ---
