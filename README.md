@@ -1,6 +1,6 @@
 ✨ **About Me**  
 - 💻 Fullstack Developer passionate about **technology**  
-- Professional Qualification in IT Management & Programming
+- 🎓 Professional Qualification in IT Management & Programming
 - 🚀 Bootcamp trainee at **Code For All**  
 - 🎯 Always striving for **success in programming**  
 
