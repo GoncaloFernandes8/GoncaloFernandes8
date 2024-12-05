@@ -1,16 +1,16 @@
-## Hi there 👋
+✨ **About Me**  
+- 💻 Fullstack Developer passionate about **technology**  
+- 🎓 Graduate in IT Management & Programming  
+- 🚀 Bootcamp trainee at **Code For All**  
+- 🎯 Always striving for **success in programming**  
 
-<!--
-**GoncaloFernandes8/GoncaloFernandes8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 **Current Focus**  
+- 🧠 Mastering **Java Streams** and **Functions**  
+- 🌱 Exploring **Aspect-Oriented Programming with Spring**  
 
-Here are some ideas to get you started:
+⚽ **Fun Facts**  
+- Soccer and martial arts enthusiast  
+- Rocket League player 🎮  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Motto**: *"The right code can change the world!"*  
+🌐 **Let’s work together!**
