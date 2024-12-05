@@ -46,15 +46,6 @@
 
 ---
 
-## 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
----
-
 ## 🚀 **What I'm Learning Next**  
 - 📚 Enhancing skills in **Spring frameworks** 
 - 🌐 Diving deeper into **frontend frameworks**
@@ -64,6 +55,6 @@
 ## 🌟 **How to Reach Me**
 
 - 📫 Email: goncalo8fernandes8@gmail.com
-- 🔗 LinkedIn: (https://www.linkedin.com/in/gon%C3%A7alo-fernandes-7b3204337/)
+- 🔗 LinkedIn: [Gonçalo Fernandes](https://www.linkedin.com/in/gon%C3%A7alo-fernandes-7b3204337/)
 
 ---
