@@ -8,14 +8,14 @@
 ---
 
 ## 🔥 **Current Focus**  
-- 🧠 **Mastering Java**: learning **streams**, **functions**, and **Spring**  
-- 🌱 Expanding knowledge in **backend development** and **clean architecture**  
+- 🧠 Mastering **Java** 
+- 🌱 Exploring **Spring**  
 
 ---
 
 ## ⚽ **Fun Facts**  
 - ⚡ Avid **soccer** and **martial arts** enthusiast  
-- 🎮 Rocket League player and casual gamer  
+- 🎮 Rocket League pro player and casual gamer  
 - ✨ Believer in: *"The right code can change the world!"*  
 
 ---
@@ -58,7 +58,6 @@
 ## 🚀 **What I'm Learning Next**  
 - 📚 Enhancing skills in **Microservices** and **Docker**  
 - 🌐 Diving deeper into **frontend frameworks** like **React**  
-- 🔗 Exploring **DevOps practices**  
 
 ---
 
@@ -66,6 +65,6 @@
 
 - 📫 Email: your-email@example.com  
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname](https://www.linkedin.com/in/gon%C3%A7alo-fernandes-7b3204337/))  
 
 ---
