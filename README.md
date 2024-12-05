@@ -5,8 +5,8 @@
 - 🎯 Always striving for **success in programming**  
 
 🔥 **Current Focus**  
-- 🧠 Mastering **Java Streams** and **Functions**  
-- 🌱 Exploring **Aspect-Oriented Programming with Spring**  
+- 🧠 Mastering **Java** 
+- 🌱 Exploring **Spring**  
 
 ⚽ **Fun Facts**  
 - Soccer and martial arts enthusiast  
