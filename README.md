@@ -65,6 +65,6 @@
 
 - 📫 Email: your-email@example.com  
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 🔗 LinkedIn: [[linkedin.com/in/gonçalo-fernandes-7b3204337](https://linkedin.com/in/yourname](https://www.linkedin.com/in/gon%C3%A7alo-fernandes-7b3204337/)](https://www.linkedin.com/in/gon%C3%A7alo-fernandes-7b3204337/))  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/gon%C3%A7alo-fernandes-7b3204337/)
 
 ---
