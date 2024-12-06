@@ -55,6 +55,6 @@
 ## 🌟 **How to Reach Me**
 
 - 📫 Email: goncalo8fernandes8@gmail.com
-- 🔗 LinkedIn: [Gonçalo Fernandes](https://www.linkedin.com/in/gon%C3%A7alo-fernandes-7b3204337/)
+- 🔗 LinkedIn: [Gonçalo Fernandes](https://www.linkedin.com/in/goncalo-fernandes88/)
 
 ---
