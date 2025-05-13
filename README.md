@@ -65,7 +65,7 @@
 
 ## 🚀 **What I'm Learning Next**  
 - 📚 Enhancing skills in **Spring frameworks** 
-- 🌐 Diving deeper into **frontend frameworks**
+- 🌐 Diving deeper into **python and plsql**
 
 ---
 
