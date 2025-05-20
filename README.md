@@ -9,8 +9,8 @@
 ---
 
 ## 🔥 **Current Focus**  
-- 🧠 Mastering **Java** 
-- 🌱 Exploring **Spring**  
+- 🧠 Mastering **Java** and **Python** 
+- 🌱 Exploring **Spring** and **PLSQL** 
 
 ---
 
