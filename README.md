@@ -2,7 +2,8 @@
 
 - 💻 **Fullstack Developer** passionate about **technology** and solving challenges  
 - 🎓 Completed a **Professional Qualification in IT Management & Programming**  
-- 🚀 Currently pursuing a **[Bootcamp at Code For All](https://codeforall.com/)**
+- 🚀 Currently pursuing  **[Bootcamp at Code For All](https://codeforall.com/)**
+- 👨🏼‍💻 Currently Working at **[UPDIGITAL](https://www.up.pt/portal/pt/updigital/)**
 - 🎯 Dedicated to achieving **success in programming**  
 
 ---
